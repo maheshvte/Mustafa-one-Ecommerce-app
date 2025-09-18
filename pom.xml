@@ -28,12 +28,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://184.73.18.155:8081/repository/mybackup/</url>
+		    <url>http://3.88.62.165:8081/repository/mybackup/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://184.73.18.155:8081/repository/mybackup/</url>
+		    <url>http://3.88.62.165:8081/repository/mybackup/</url>
 		</repository>
   	</distributionManagement>
 	
